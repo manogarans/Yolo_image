@@ -41,6 +41,7 @@ Download search results as JSON
 
 Works on CPU
 
+
 Optional CUDA GPU acceleration
 
 🛠️ Installation
