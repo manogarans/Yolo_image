@@ -4,12 +4,10 @@
 A powerful Computer Vision–powered Image Search Engine built using YOLOv11, Streamlit, and Python.
 This application can automatically detect objects in images, generate metadata, and help you search images based on object type and count with an interactive UI.
 
-### 🚀 Features
-🔍 Object Detection & Metadata Generation
-
-Process an entire image directory using YOLOv11
-
-Save detection results as structured metadata JSON
+### 🚀 Features :
+* 🔍 Object Detection & Metadata Generation
+* Process an entire image directory using YOLOv11
+* Save detection results as structured metadata JSON
 
 ### 🧠 Smart Image Search Engine
 
