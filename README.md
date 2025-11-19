@@ -11,8 +11,8 @@ Process an entire image directory using YOLOv11
 
 Save detection results as structured metadata JSON
 
-**🧠 Smart Image Search Engine :
-**
+**🧠 Smart Image Search Engine : **
+
 Search images by:
 
 Selected object classes
@@ -23,8 +23,7 @@ Maximum count thresholds per class
 
 Highlight matching objects in results
 
-**🖼️ Interactive Image Viewer :
-**
+**🖼️ Interactive Image Viewer : **
 Grid-based image layout
 
 Toggle bounding boxes
@@ -33,12 +32,10 @@ Highlight matched objects
 
 Rich metadata overlay
 
-**💾 Export Options :
-**
+**💾 Export Options : **
 Download search results as JSON
 
-**⚡ Hardware Support :
-**
+**⚡ Hardware Support : **
 Works on CPU
 
 Optional CUDA GPU acceleration
