@@ -9,38 +9,29 @@ This application can automatically detect objects in images, generate metadata, 
 * Process an entire image directory using YOLOv11
 * Save detection results as structured metadata JSON
 
-### 🧠 Smart Image Search Engine
+### 🧠 Smart Image Search Engine :
 
-Search images by:
+*Search images by:
+* Selected object classes
+* OR / AND matching modes
+* Maximum count thresholds per class
+* Highlight matching objects in results
 
-Selected object classes
+### 🖼️ Interactive Image Viewer :
 
-OR / AND matching modes
-
-Maximum count thresholds per class
-
-Highlight matching objects in results
-
-### 🖼️ Interactive Image Viewer
-
-Grid-based image layout
-
-Toggle bounding boxes
-
-Highlight matched objects
-
-Rich metadata overlay
+* Grid-based image layout
+* Toggle bounding boxes
+* Highlight matched objects
+* Rich metadata overlay
 
 ### 💾 Export Options
 
-Download search results as JSON
+* Download search results as JSON
 
 ### ⚡ Hardware Support
 
-Works on CPU
-
-
-Optional CUDA GPU acceleration
+* Works on CPU
+* Optional CUDA GPU acceleration
 
 ### 🛠️ Installation  : 
 🔧 CPU Installation
@@ -60,6 +51,5 @@ pip install -r requirements.txt
 
 ### CUDA Docs
 
-Linux: https://docs.nvidia.com/cuda/cuda-installation-guide-linux
-
-Windows: https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows
+* Linux: https://docs.nvidia.com/cuda/cuda-installation-guide-linux
+* Windows: https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows
