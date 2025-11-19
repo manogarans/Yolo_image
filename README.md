@@ -33,8 +33,8 @@ This application can automatically detect objects in images, generate metadata, 
 * Works on CPU
 * Optional CUDA GPU acceleration
 
-### 🛠️ Installation  : 
-🔧 CPU Installation
+## 🛠️ Installation  : 
+###🔧 CPU Installation
 ```
 conda create -n yolo_image_search python=3.11 -y
 conda activate yolo_image_search
