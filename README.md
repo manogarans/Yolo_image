@@ -56,3 +56,9 @@ pip install -r requirements.txt
 
 * Linux: https://docs.nvidia.com/cuda/cuda-installation-guide-linux
 * Windows: https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows
+
+
+
+### SCREENSHOT :
+<img width="1803" height="810" alt="Screenshot 2025-11-19 090058" src="https://github.com/user-attachments/assets/b2f08d67-a4d0-4424-92aa-66e1eacb7855" />
+<img width="1798" height="780" alt="Screenshot 2025-11-19 090147" src="https://github.com/user-attachments/assets/60a81c4b-e0c4-46fc-8e47-a2a51512d560" />
